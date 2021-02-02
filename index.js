@@ -6,7 +6,7 @@ var chroma = require("chroma-js")
 
 // Your data downloaded as a CSV and converted to JSON. Next step... fetch the data directly from the googledoc
 
-var data = require("./data.json")
+// var data = require("./data.json")
 
 // Javascript to create nodes
 
@@ -16,57 +16,71 @@ var createNodes = require('./createNodes');
 
 var createSVG = require('./createSVG');
 
-// The next bit is where we are formatting the data
+// Javascript to load data from googledoc
 
-var allCompanies = data.map(item => item.Grouping)
+var fetch = require('./loadURL');
 
-var companySet = new Set(allCompanies) 
+fetch("https://interactive.guim.co.uk/docsdata/1bzh9J_sllSSrbYGi_STtgioQ6kYBUPz9Lg_eP8wrsTw.json").then( (data) => wrangle(data))
 
-var companies = Array.from(companySet);
+// The wrangle function is where we are formatting the data
 
-var colours = companies.map(item => chroma.random())
+function wrangle(data) {
 
-var getColour = function(type) {
+    var allCompanies = data.map(item => item.Grouping)
 
-    var index = companies.indexOf(type); 
+    var companySet = new Set(allCompanies) 
 
-    return colours[index]
+    var companies = Array.from(companySet);
 
-};
+    var colours = companies.map(item => chroma.random())
 
-var json = companies.map( (item, index) => {
+    var getColour = function(type) {
 
-	return { name : item, group : item }
+        var index = companies.indexOf(type); 
 
-})
+        return colours[index]
 
-var obj = {
-    "name" : "Gaming companies",
-    "display" : false,
-    "children": []
-}
+    };
 
-json.forEach( item => {
-    var child = {}
-    child.name = item.name
-    child.group = item.group
-    child.display = false
-    var shortlist = data.filter( cat => cat.Grouping === item.name)
-    child.children = shortlist.map( (final,index) => {
-        return { "name": final["Company name"], "display" : true, "size" : final["Headcount (approx)"], "group" : final.Grouping  }
+    var json = companies.map( (item, index) => {
+
+    	return { name : item, group : item }
+
     })
-    obj.children.push(child)
-})
 
-// The data formatting ends here. Now we make a preview SVG and output a sample of the JSON
+    var obj = {
+        "name" : "Gaming companies",
+        "display" : false,
+        "children": []
+    }
 
-var width = 1000
+    json.forEach( item => {
+        var child = {}
+        child.name = item.name
+        child.group = item.group
+        child.display = false
+        var shortlist = data.filter( cat => cat.Grouping === item.name)
+        child.children = shortlist.map( (final,index) => {
+            return { "name": final["Company name"], "display" : true, "size" : final["Headcount (approx)"], "group" : final.Grouping  }
+        })
+        obj.children.push(child)
+    })
 
-var height = 1000 
+    // The data formatting ends here. Now we make a preview SVG and output a sample of the JSON
 
-var nodes = createNodes(obj, width, height)
+    var width = 1000
 
-var svg = createSVG(nodes, width, height, getColour)
+    var height = 1000 
+
+    var nodes = createNodes(obj, width, height)
+
+    var svg = createSVG(nodes, width, height, getColour)
+
+    writeSVG(svg)
+
+    writer(obj)
+
+}
 
 function writeSVG(svg) {
 
@@ -80,8 +94,6 @@ function writeSVG(svg) {
 
     }); 
 }
-
-writeSVG(svg)
 
 function writer(data) {
 
@@ -98,4 +110,4 @@ function writer(data) {
     }); 
 }
 
-writer(obj)
+
