@@ -1,0 +1,1622 @@
+[
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Nintendo Entertainment and Planning Division (EPD)",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 900,
+    "Focus": "Mario, Zelda, Splatoon, Animal Crossing, Metroid, Pikmin, Star Fox",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Monolith Soft",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 243,
+    "Focus": "Xenoblade",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Next Level Games",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 117,
+    "Focus": "Luigi's Mansion, Punch Out!",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Retro Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 140,
+    "Focus": "Metroid Prime, Donkey Kong Country",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "1-Up Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 52,
+    "Focus": "Mother",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Mario Club",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 289,
+    "Focus": "QA",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Creatures",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 110,
+    "Focus": "Mother, Pokemon",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Good Feel",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 131,
+    "Focus": "Woolie World, Epic Yarn",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Grezzo",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 68,
+    "Focus": "Zelda ports and spin-offs, Ever Ocean",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Game Freak",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 143,
+    "Focus": "Pokemon",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "HAL Laboratory",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 169,
+    "Focus": "Kirby",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Intelligent Systems",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 151,
+    "Focus": "Fire Emblem, Advance Wars, WarioWare, Pushmo",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Camelot",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 44,
+    "Focus": "Golden Sun, Mario Sports,",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Nintendo",
+    "Company name": "Sora Ltd",
+    "Former name": "",
+    "Subgrouping": "Affiliate",
+    "Headcount (approx)": 2,
+    "Focus": "Super Smash Brothers, Kid Icarus",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Guerilla Games",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 400,
+    "Focus": "Killzone, Horizon",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Insomniac Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 275,
+    "Focus": "Resistance, Ratchet & Clank, Spider-man",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Sony Japan Studio",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 400,
+    "Focus": "Gravity Rush, Ape Escape, Locoroco, Knack",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Media Molecule",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 83,
+    "Focus": "LittleBigPlanet, Dreams",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Naughty Dog",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 464,
+    "Focus": "Jak & Daxter, Uncharted, The Last of Us",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Polyphony Digital",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 170,
+    "Focus": "Gran Turismo",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Sony San Diego",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "MLB The Show",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Sony London",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 80,
+    "Focus": "PSVR",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Sony Santa Monica",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 200,
+    "Focus": "God of War",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Bend Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 100,
+    "Focus": "Bubsy 3D, Syphon Filter, Days Gone",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sony Interactive Entertainment",
+    "Company name": "Sucker Punch Productions",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 160,
+    "Focus": "Sly Cooper, Infamous, Ghost of Tsushima",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "343 Industries",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 450,
+    "Focus": "Halo",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "The Coalition",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 200,
+    "Focus": "Gears of War",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Compulsion Games",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 40,
+    "Focus": "We Happy Few",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Double Fine Productions",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 65,
+    "Focus": "Psychonauts, Brutal Legend, Broken Age",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "The Initative",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 72,
+    "Focus": "Perfect Dark",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "inExile Entertainment",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 70,
+    "Focus": "Wasteland, Bard's Tale",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Mojang Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 70,
+    "Focus": "Minecraft",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Ninja Theory",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 120,
+    "Focus": "Heavenly Sword, Enslaved, Hellblade",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Obsidian",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 200,
+    "Focus": "The Outer Worlds",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Playground Games",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 200,
+    "Focus": "Fable",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Rare",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 250,
+    "Focus": "Viva Pinata, Sea of Thieves",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Turn 10 Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 300,
+    "Focus": "Forza Motorsports",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Undead Labs",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 60,
+    "Focus": "State of Decay",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "World's Edge",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 40,
+    "Focus": "Age of Empires",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Alpha Dog Games",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": "",
+    "Focus": "Wraithborne, Mobile games",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Bethesda Game Studios",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": 400,
+    "Focus": "The Elder Scrolls, Fallout, Starfield",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Arkane Studios",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": 150,
+    "Focus": "Prey, Dishonored, Deathloop",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "iD Software",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": 200,
+    "Focus": "Doom, Quake, Commander Keen, Rage",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "MachineGames",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": 50,
+    "Focus": "Wolfenstein",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Tango Gameworks",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": 65,
+    "Focus": "The Evil Within, Tokyo: Ghostwire",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Zenimax Online",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": 250,
+    "Focus": "Elder Scrolls Online, Fallout 76",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Microsoft",
+    "Company name": "Roundhouse Studios",
+    "Former name": "",
+    "Subgrouping": "Zenimax/Bethesda",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Blue Mammoth",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Brawlhalla",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Red Storm Entertainment",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 130,
+    "Focus": "Tom Clancy's Ghost Recon",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Halifax",
+    "Former name": "Longtail Studios Halifax",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 50,
+    "Focus": "Rocksmith",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Montreal",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 3200,
+    "Focus": "Assassin's Creed, Prince of Persia, Far Cry, Watch Dogs",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Quebec",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 500,
+    "Focus": "Assassin's Creed, Immortals: Fenyx Rising",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Saguenay",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft San Francisco",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Rock Smith, South Park RPGs",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Toronto",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Splinter Cell, Starlink, Watch Dogs, Far Cry",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Winnipig",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "1942 Studio",
+    "Former name": "",
+    "Subgrouping": "Indirectly owned",
+    "Headcount (approx)": "",
+    "Focus": "Is It Love?",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Future Games of London",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Hungry Shark",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Green Panda Games",
+    "Former name": "",
+    "Subgrouping": "Partial stake",
+    "Headcount (approx)": "",
+    "Focus": "Mobile casual",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ivory Tower",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 100,
+    "Focus": "The Crew",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Kolibri Games",
+    "Former name": "",
+    "Subgrouping": "Partial stake",
+    "Headcount (approx)": "",
+    "Focus": "Idle Miner Tycoon, Idle Factory Tycoon",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Massive Entertainment",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 650,
+    "Focus": "Ground Control, World in Conflict, The Division",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Nadeo",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Trackmania, Shootmania",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Owlient",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Howrse",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "RedLynx",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 145,
+    "Focus": "Trials",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Annecy",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Steep, Riders Republic",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Barcelona",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Belgrade",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Blue Byte",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 300,
+    "Focus": "Settlers",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Berlin",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Skull and Bones",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Mainz",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Anno",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Bordeux",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Bucharest",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Kyiv",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Leamington",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 50,
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Milan",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Just Dance, Motion control games, Mario + Rabbids",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Montpellier",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Rayman, Beyond Good and Evil",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Odesa",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 20,
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Paris",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Ghost Recon, Just Dance",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Reflections",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Driver",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Sofia",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 160,
+    "Focus": "Handheld games",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Stockholm",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Abu Dhabi",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Chengdu",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Da Nang",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Mobile games",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Mumbai",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Osaka",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Petz",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Phillipines",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 100,
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Pune",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 750,
+    "Focus": "Prince of Persia, support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Shanghai",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Ubisoft",
+    "Company name": "Ubisoft Singapore",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 300,
+    "Focus": "Skull & Bones",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar Dundee",
+    "Former name": "Ruffian Games",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": 27,
+    "Focus": "Crackdown",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar India",
+    "Former name": "",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": 500,
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar Leeds",
+    "Former name": "Mobius Entertainment",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar Lincoln",
+    "Former name": "Spidersoft",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": "",
+    "Focus": "QA",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar London",
+    "Former name": "",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": "",
+    "Focus": "Manhunt, Midnight Club",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar New England",
+    "Former name": "Mad Doc Software LLC",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": 100,
+    "Focus": "Empire Earth, Port studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar North",
+    "Former name": "DMA Design",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": 650,
+    "Focus": "Lemmings, Grand Theft Auto",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar San Diego",
+    "Former name": "Angel Studios, Inc",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": 128,
+    "Focus": "Midnight Club, Smuggler's Run, Red Dead",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Rockstar Toronto",
+    "Former name": "Rockstar Canada",
+    "Subgrouping": "Rockstar",
+    "Headcount (approx)": "",
+    "Focus": "Max Payne 3, Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "31st Union",
+    "Former name": "",
+    "Subgrouping": "2K Interactive",
+    "Headcount (approx)": "",
+    "Focus": "Unannounced IP",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Cloud Chamber",
+    "Former name": "",
+    "Subgrouping": "2K Interactive",
+    "Headcount (approx)": "",
+    "Focus": "Bioshock IP",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Firaxis Games",
+    "Former name": "",
+    "Subgrouping": "2K Interactive",
+    "Headcount (approx)": "",
+    "Focus": "Civilization, XCOM",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Hanger 13",
+    "Former name": "",
+    "Subgrouping": "2K Interactive",
+    "Headcount (approx)": "",
+    "Focus": "Mafia",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Visual Concepts",
+    "Former name": "",
+    "Subgrouping": "2K Interactive",
+    "Headcount (approx)": 350,
+    "Focus": "NBA 2K, WWE 2K",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Ghost Story Games",
+    "Former name": "",
+    "Subgrouping": "2K Interactive",
+    "Headcount (approx)": 33,
+    "Focus": "Unannounced IP",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Take-Two Interactive",
+    "Company name": "Intercept Games",
+    "Former name": "",
+    "Subgrouping": "2K Interactive",
+    "Headcount (approx)": "",
+    "Focus": "Kerbal Space Program",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Creative Business Unit I",
+    "Former name": "",
+    "Subgrouping": "Square Enix Co",
+    "Headcount (approx)": "",
+    "Focus": "Final Fantasy, Kingdom Hearts",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Creative Business Unit II",
+    "Former name": "",
+    "Subgrouping": "Square Enix Co",
+    "Headcount (approx)": "",
+    "Focus": "Dragon Quest, Nier, Bravely",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Creative Business Unit III",
+    "Former name": "",
+    "Subgrouping": "Square Enix Co",
+    "Headcount (approx)": "",
+    "Focus": "Final Fantasy XIV",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Creative Business Unit IV",
+    "Former name": "",
+    "Subgrouping": "Square Enix Co",
+    "Headcount (approx)": "",
+    "Focus": "Mana, Remasters, Port studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Crystal Dynamics",
+    "Former name": "",
+    "Subgrouping": "Square Enix Europe",
+    "Headcount (approx)": "",
+    "Focus": "Tomb Raider, Legacy of Kain",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Eidos Montreal",
+    "Former name": "",
+    "Subgrouping": "Square Enix Europe",
+    "Headcount (approx)": 500,
+    "Focus": "Deus Ex, Thief",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Eidos Shanghai",
+    "Former name": "",
+    "Subgrouping": "Square Enix Europe",
+    "Headcount (approx)": "",
+    "Focus": "Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Square Enix Montreal",
+    "Former name": "",
+    "Subgrouping": "Square Enix Europe",
+    "Headcount (approx)": "",
+    "Focus": "Mobile studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Hippos Labs",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Mobile studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Tokyo RPG Factory",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "I Am Setsuna, Oninaki",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Luminous Productions",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": 150,
+    "Focus": "Final Fantasy XV, Project Athia",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "PlayOnline",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Online gaming division",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Square Enix",
+    "Company name": "Taito Corporation",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Space Invaders, Bubble Bobble, Darius, Arcade support",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Bioware",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Dragon Age, Mass Effect, Anthem",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Criterion Games",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 90,
+    "Focus": "Burnout, Need for Speed",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "DICE",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": 640,
+    "Focus": "Battlefield, Mirror's Edge, Star Wars Battlefront",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "DICE Los Angeles",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Baton Rogue",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Galway",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Gothenburg",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Need for Speed",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Capital Games",
+    "Former name": "",
+    "Subgrouping": "EA Mobile",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Redwood",
+    "Former name": "",
+    "Subgrouping": "EA Mobile",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Firemonkey Studios",
+    "Former name": "",
+    "Subgrouping": "EA Mobile",
+    "Headcount (approx)": "",
+    "Focus": "Mobile studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Industrial Toys",
+    "Former name": "",
+    "Subgrouping": "EA Mobile",
+    "Headcount (approx)": "",
+    "Focus": "Midnight Star; Mobile Studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Slingshot Games",
+    "Former name": "",
+    "Subgrouping": "EA Mobile",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Tracktwenty Studios",
+    "Former name": "",
+    "Subgrouping": "EA Mobile",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Cologne",
+    "Former name": "",
+    "Subgrouping": "EA Sports",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Madrid",
+    "Former name": "",
+    "Subgrouping": "EA Sports",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Romania",
+    "Former name": "",
+    "Subgrouping": "EA Sports",
+    "Headcount (approx)": "",
+    "Focus": "FIFA",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Tiburon",
+    "Former name": "",
+    "Subgrouping": "EA Sports",
+    "Headcount (approx)": "",
+    "Focus": "Madden",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "EA Vancouver",
+    "Former name": "",
+    "Subgrouping": "EA Sports",
+    "Headcount (approx)": "",
+    "Focus": "NHL, UFC",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Maxis",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "The Sims, SimCity, Spore",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Motive Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Star Wars: Squadrons",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Pogo Studios",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Casual/mobile studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Popcap Games",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Bejewelled, Plants vs Zombies, Mobile studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Respawn Entertainment",
+    "Former name": "",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "Medal of Honor, Jedi: Fallen Order",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Electronic Arts",
+    "Company name": "Spearhead",
+    "Former name": "EA Korea",
+    "Subgrouping": "First-party",
+    "Headcount (approx)": "",
+    "Focus": "",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Blizzard Entertainment",
+    "Former name": "",
+    "Subgrouping": "Blizzard",
+    "Headcount (approx)": "",
+    "Focus": "Warcraft, Starcraft, Diablo, Overwatch",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "King",
+    "Former name": "",
+    "Subgrouping": "King",
+    "Headcount (approx)": "",
+    "Focus": "Candy Crush, Mobile studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Demonware",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Networking and support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Radical Entertainment",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Prototype, Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Beenox",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Port and support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Activision-Blizzard Shanghai",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Call of Duty Online",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "High Moon Studios",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Call of Duty",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Infinity Ward",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Call of Duty",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Sledgehammer Games",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Call of Duty",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Toys for Bob",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Skylanders, Spyro, Crash",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Treyarch",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Call of Duty",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Major League Gaming",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "eSports division",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Activision-Blizzard",
+    "Company name": "Raven Software",
+    "Former name": "",
+    "Subgrouping": "Activision",
+    "Headcount (approx)": "",
+    "Focus": "Hexen, Soldier of Fortune, Star Wars: Jedi Knight, Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Bandai-Namco",
+    "Company name": "BB Studio",
+    "Former name": "",
+    "Subgrouping": "Network Entertainment Unit",
+    "Headcount (approx)": "",
+    "Focus": "Super Robot Wars",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Bandai-Namco",
+    "Company name": "Bandai Namco Studios",
+    "Former name": "",
+    "Subgrouping": "Network Entertainment Unit",
+    "Headcount (approx)": 2797,
+    "Focus": "Soul Calibur, Ace Combat, God Eater, Pacman, Idolm@ster, Tekken, Tales",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Epic Games",
+    "Former name": "",
+    "Subgrouping": "Primary Studio",
+    "Headcount (approx)": "",
+    "Focus": "Fortnite, Unreal Engine, Epic Games Store, Unreal Tournament, Gears of War",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Chair Entertainment",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Infinity Blade",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Cloudgine Limited",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Cloud gaming",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Psyonix",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Rocket League",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "SuperAwesome",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Child-safe gaming",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "RAD Game Tools",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Game development software",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Quixel",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Asset digitisation",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Kamu",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Easy Anti-Cheat",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Hpyrsense",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Facial capture",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "3Lateral",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Human animation",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Epic Games",
+    "Company name": "Agog",
+    "Former name": "",
+    "Subgrouping": "Subsidiary",
+    "Headcount (approx)": "",
+    "Focus": "Unreal Engine scripting support",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "CSD1 (including Yakuza Team)",
+    "Former name": "",
+    "Subgrouping": "Internal Division",
+    "Headcount (approx)": "",
+    "Focus": "Yakuza, Judgement, Super Monkey Ball",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "CSD2 (including Sonic Team)",
+    "Former name": "",
+    "Subgrouping": "Internal Division",
+    "Headcount (approx)": "",
+    "Focus": "Sonic, Puyo Puyo, Valkyria Chronicles",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "Amplitude Studios",
+    "Former name": "",
+    "Subgrouping": "Sega West",
+    "Headcount (approx)": "",
+    "Focus": "Endless, Humankind",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "The Creative Assembly",
+    "Former name": "",
+    "Subgrouping": "Sega West",
+    "Headcount (approx)": 700,
+    "Focus": "Total War, Alien",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "Sports Interactive",
+    "Former name": "",
+    "Subgrouping": "Sega West",
+    "Headcount (approx)": 170,
+    "Focus": "Championship Manager, Football Manager",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "Hardlight",
+    "Former name": "",
+    "Subgrouping": "Sega West",
+    "Headcount (approx)": "",
+    "Focus": "Mobile games, Support studio",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "Relic Entertainment",
+    "Former name": "",
+    "Subgrouping": "Sega West",
+    "Headcount (approx)": "",
+    "Focus": "Homeworld, Company of Heroes, Dawn of War",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "Atlus",
+    "Former name": "",
+    "Subgrouping": "Atlus",
+    "Headcount (approx)": "",
+    "Focus": "Persona, SMT, Etrian Odyssey",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "Two Point Studios",
+    "Former name": "",
+    "Subgrouping": "Sega West",
+    "Headcount (approx)": 17,
+    "Focus": "Two Point Hospital",
+    "Valuation": ""
+  },
+  {
+    "Grouping": "Sega",
+    "Company name": "Butterfly Corporation",
+    "Former name": "",
+    "Subgrouping": "Partial stake",
+    "Headcount (approx)": 35,
+    "Focus": "Mobile games",
+    "Valuation": ""
+  }
+]
